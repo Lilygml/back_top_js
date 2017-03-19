@@ -1,0 +1,4 @@
+.main{width:380px;height:200px;margin: 0 auto; background: url(../img/img.jpg) no-repeat left bottom;}
+#btn{position: fixed;bottom: 10%;right:10%;
+	width:40px;height:40px;background: url(../img/back_top.png) no-repeat left bottom;display: none;}
+#btn:hover{background-color: #ccc; }
